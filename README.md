@@ -15,7 +15,7 @@ A Python CLI application that fetches and displays weather forecasts using the O
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/karim-chatty/Weather_Py.git
    cd weather-app
   ## Run
        python weather.py
