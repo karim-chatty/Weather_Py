@@ -3,9 +3,6 @@ from datetime import datetime ,timedelta
 from dotenv import load_dotenv
 import os 
 load_dotenv()
-#   U CAN USE THE LINK WHERE TO SEND REQUESTS TO  IN A SEPARETE CONSTANTE AS U SEE API& BASE URL ,OR JUST PUT THE FULL LINK,FIRST ONE IS BETTER 
-# API_KEY = "2bddd46deb88b2726c2681492bc44363"
-# BASE_URL = "http://api.openweathermap.org/data/2.5/weather?"
 
 name=input("What is your Name :")
 ur_country= input("Enter your country| city:")
